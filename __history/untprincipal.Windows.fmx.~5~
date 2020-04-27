@@ -1,0 +1,25 @@
+inherited frmPrincipal_Windows: TfrmPrincipal_Windows
+  Position = Designed
+  DesignerMasterStyle = 3
+  inherited DateEdit1: TDateEdit
+    Position.X = 16.000000000000000000
+    Position.Y = 16.000000000000000000
+  end
+  inherited CheckBox1: TCheckBox
+    Position.X = 176.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited CheckBox2: TCheckBox
+    Position.X = 352.000000000000000000
+    Position.Y = 24.000000000000000000
+  end
+  inherited Label1: TLabel
+    Position.Y = 120.000000000000000000
+    Size.Width = 497.000000000000000000
+    Size.Height = 99.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    TextSettings.HorzAlign = Center
+  end
+end

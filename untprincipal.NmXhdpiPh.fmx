@@ -1,0 +1,17 @@
+inherited frmPrincipal_NmXhdpiPh: TfrmPrincipal_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited ImageControl1: TImageControl
+    Position.Y = 351.000000000000000000
+    Size.Width = 400.000000000000000000
+  end
+  inherited Label2: TLabel
+    Size.Width = 400.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+  inherited ImageControl2: TImageControl
+    Position.Y = 87.000000000000000000
+    Size.Width = 400.000000000000000000
+  end
+end
